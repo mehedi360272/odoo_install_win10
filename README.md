@@ -48,6 +48,9 @@ Now you need to add configaretion -
 Name - E.g. odoo15
 Scriptpath - Select odoo-bin file location (E.g. User/user/Desktop/odoo-15.0/odoo-bin)
 Parameter - -c odoo.conf
+# Screen short
+![image](https://github.com/mehedi360272/odoo_install_win10/assets/108589611/86b4f4fb-4516-4c2e-aaa2-6c358bc60421)
+
 
 
 After finish all setup process ,run odoo15 source code 
